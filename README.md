@@ -12,7 +12,4 @@ Sou um Frontend Developer Jr :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox.
  <br/> :computer: &nbsp; Minha stack: Html, CSS, Java Scrip e Git.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e artes marciais.
- <br/> :email: &nbsp; Entre em contato comigo: 
- https://www.notion.so/GitHub-LinkedIn-9a057f4f92ab4392903ff3a588acb2ab
- adriano.misina@gmail.com
- + 55 11 94586-1188
+ <br/> :email: &nbsp; Entre em contato comigo: adriano.misina@gmail.com
