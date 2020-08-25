@@ -1,11 +1,8 @@
-<img width="auto" src="https://avatars2.githubusercontent.com/u/65734814?s=400&u=97e4821f23ea70c3b18a19413680e24eef21c514&v=4">
-
-
 # Adriano Misina
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Frontend Developer Jr :computer:
+Sou um Frontend Developer :computer:
 
  Estou trabalhando como Freelancer em busca de uma oportunidade no mercado de trabalho.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Html, CSS, Java Scrip e Git.
