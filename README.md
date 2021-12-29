@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Frontend Developer :computer:
+Sou um Frontend UX Developer :computer:
 
  Atualmente trabalho como Frontend UX developer na Sensedia e nas horas vagas faço uns freelas :) 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Frontend usando Html, CSS, Javascript, React JS, Angular, Vue JS, Quasar e React Native.
